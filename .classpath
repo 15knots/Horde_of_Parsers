@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="testing"/>
+	<classpathentry kind="lib" path="/opt/eclipse/plugins/org.antlr_2.7.2_03/antlrall.jar" sourcepath="/opt/eclipse/plugins/org.antlr_2.7.2_03/antlrsrc.zip"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

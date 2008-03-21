@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Horde of Parsers" default="javadoc">
+    <target name="javadoc">
+        <javadoc
+            destdir="/home/weber/devel/src/tessyparser/generatedDocs"
+            access="public" use="true" notree="false" nonavbar="false"
+            noindex="false" splitindex="true" author="true"
+            version="true" nodeprecatedlist="false" nodeprecated="false"
+            packagenames="/home/weber/devel/src/tessyparser/testing/AllTests.java,/home/weber/devel/src/tessyparser/src/Main.java,parser.grammar,parser"
+            sourcepath="/home/weber/devel/src/tessyparser/src:/home/weber/devel/src/tessyparser/testing" classpath="/home/weber/devel/src/tessyparser/bin:/opt/eclipse/plugins/org.antlr_2.7.2_03/antlrall.jar:/opt/eclipse/plugins/org.junit_3.7.0/junit.jar"/>
+    </target>
+</project>
